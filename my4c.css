@@ -1,0 +1,83 @@
+body{
+  background: white;
+  font-family: 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+}
+div.container{
+  width: 100%;
+  height: 100%;
+  
+}
+div.header{
+  width: 100%;
+  padding:10px 0 ;
+  background: rgb(71, 70, 70);
+  margin: auto;
+  font-weight: bold;
+  text-align: center;
+  position: fixed;
+  background-image: url(images.jpg);
+}
+span.txt1{
+  font-size: 40px;
+  word-spacing:16px;
+  letter-spacing: 2px;
+  color: rgb(233, 155, 11);
+}
+div.content{
+  width: 100%;
+  color: black;
+  padding-top: 50px;
+  text-align: center;
+}
+span.txt2{
+  font-size: 30px;
+  word-spacing:5px;
+  letter-spacing: 2px;
+  display: block;
+  color: white;
+}
+i{
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 1px 1px rgb(233, 155, 11)
+}
+span.txt3{
+  font-size: 26px;
+  word-spacing:5px;
+}
+div.t3{
+  margin-top: 100px;
+}
+div.div{
+  width: 40%;
+  margin: auto;
+  margin-top: 40px;
+  border: 1px solid rgb(233, 155, 11);
+  padding: 30px;
+  border-radius: 30px;
+}
+p.f{
+  font-size: 25px;
+  word-spacing: 3px;
+
+}
+.join{
+ width: 130px;
+ padding: 5px;
+ background: rgb(233, 155, 11);
+ border-radius:20px;
+ border: none;
+ outline: none;
+ color: white;
+}
+div.footer{
+  margin-top: 50px;
+}
+footer{
+  width: 100%;
+  background:  rgb(0, 0, 0);
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+

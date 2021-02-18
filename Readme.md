@@ -1,0 +1,1 @@
+This is a prototype suggestion as regards MY4C Community website page. It contains both the HTML and CSS file used for this page design. 
